@@ -16,7 +16,7 @@
       <yzl-Button plain type="success">成功按钮</yzl-Button>
       <yzl-Button plain type="info">信息按钮</yzl-Button>
       <yzl-Button plain type="warning">警告按钮</yzl-Button>
-      <yzl-Button plain type="danger">危险按钮</yzl-Button>
+      <yzl-Button plain type="danger">危险按钮1</yzl-Button>
     </div>
   </div>
 </template>
